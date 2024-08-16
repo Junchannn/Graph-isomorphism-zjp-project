@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/verifier_exec.dir/verifier.cpp.o -o verifier/verifier_exec  libGraph_zkp.a 

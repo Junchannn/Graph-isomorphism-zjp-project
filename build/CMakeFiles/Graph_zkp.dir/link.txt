@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGraph_zkp.a CMakeFiles/Graph_zkp.dir/zkp.cpp.o
+/usr/bin/ranlib libGraph_zkp.a

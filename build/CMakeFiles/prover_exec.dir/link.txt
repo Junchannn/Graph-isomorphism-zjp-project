@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/prover_exec.dir/prover.cpp.o -o prover/prover_exec  libGraph_zkp.a 

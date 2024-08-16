@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MyZKPProject",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Graph_zkp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Graph_zkp-Debug-5cec5b7bbb19d635a931.json",
+					"name" : "Graph_zkp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "prover_exec::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prover_exec-Debug-fc47a904ec8d367c183e.json",
+					"name" : "prover_exec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "verifier_exec::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-verifier_exec-Debug-1e167fff3e6f47b1bf52.json",
+					"name" : "verifier_exec",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Cryptography1/Cryptography/zkp/build",
+		"source" : "/mnt/c/Cryptography1/Cryptography/zkp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/client_exec.dir/client.cpp.o -o client/client_exec  libGraph_zkp.a 

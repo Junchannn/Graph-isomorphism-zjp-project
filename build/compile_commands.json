@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/c/Cryptography1/Cryptography/zkp/build",
+  "command": "/usr/bin/c++  -I/mnt/c/Cryptography1/Cryptography/zkp/include -isystem /mnt/c/Cryptography1/Cryptography/vcpkg/installed/x64-linux/include -g -std=gnu++17 -o CMakeFiles/Graph_zkp.dir/zkp.cpp.o -c /mnt/c/Cryptography1/Cryptography/zkp/zkp.cpp",
+  "file": "/mnt/c/Cryptography1/Cryptography/zkp/zkp.cpp"
+},
+{
+  "directory": "/mnt/c/Cryptography1/Cryptography/zkp/build",
+  "command": "/usr/bin/c++  -I/mnt/c/Cryptography1/Cryptography/zkp/include -isystem /mnt/c/Cryptography1/Cryptography/vcpkg/installed/x64-linux/include -g -std=gnu++17 -o CMakeFiles/verifier_exec.dir/verifier.cpp.o -c /mnt/c/Cryptography1/Cryptography/zkp/verifier.cpp",
+  "file": "/mnt/c/Cryptography1/Cryptography/zkp/verifier.cpp"
+},
+{
+  "directory": "/mnt/c/Cryptography1/Cryptography/zkp/build",
+  "command": "/usr/bin/c++  -I/mnt/c/Cryptography1/Cryptography/zkp/include -isystem /mnt/c/Cryptography1/Cryptography/vcpkg/installed/x64-linux/include -g -std=gnu++17 -o CMakeFiles/prover_exec.dir/prover.cpp.o -c /mnt/c/Cryptography1/Cryptography/zkp/prover.cpp",
+  "file": "/mnt/c/Cryptography1/Cryptography/zkp/prover.cpp"
+}
+]

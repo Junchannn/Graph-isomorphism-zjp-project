@@ -1,0 +1,5 @@
+/mnt/c/Cryptography1/Cryptography/zkp/build/CMakeFiles/Graph_zkp.dir
+/mnt/c/Cryptography1/Cryptography/zkp/build/CMakeFiles/verifier_exec.dir
+/mnt/c/Cryptography1/Cryptography/zkp/build/CMakeFiles/prover_exec.dir
+/mnt/c/Cryptography1/Cryptography/zkp/build/CMakeFiles/edit_cache.dir
+/mnt/c/Cryptography1/Cryptography/zkp/build/CMakeFiles/rebuild_cache.dir
